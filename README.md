@@ -45,7 +45,11 @@ Each release includes:
 
 ### Getting Started with Tmux
 
-For those new to tmux, here are some helpful resources:
+For those new to tmux, check out our comprehensive starter guide:
+
+- **[itmux Starter Guide](STARTER_GUIDE.md)** - Complete beginner-friendly guide with examples and best practices
+
+Additional external resources:
 
 - [A beginner's guide to tmux](https://www.redhat.com/en/blog/introduction-tmux-linux)
 - [Tmux cheat sheet](https://opensource.com/downloads/tmux-cheat-sheet)
