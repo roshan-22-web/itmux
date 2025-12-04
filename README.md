@@ -1,5 +1,7 @@
 # itmux - Tmux for Windows
 
+![itmux](tmux.png)
+
 itmux is a packaging of Tmux, Mintty, OpenSSH client and Cygwin to offer a standalone ssh-enabled terminal multiplexer for Windows systems.
 
 [tmux](https://github.com/tmux/tmux/wiki) (Terminal Multiplexer) is a popular command-line tool that allows users to manage multiple terminal sessions from a single window, making it easier to work with multiple command-line tasks simultaneously. Originally created as an open-source alternative to GNU Screen, tmux has become widely used among developers, system administrators, and anyone who works extensively in the command line.
